@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 0;
+}
+.box-model{
+    width: 500px;
+    height: 400px;
+    margin: 30px auto;
+    padding: 20px 20px;
+    border: 1px solid lightgray;
+    border-radius: 16px;
+    
+}
+
+.card-body{
+    padding: 3px;
+}
+.line{
+    border-top: 1px solid lightgray;
+    
+}
+.my_profile{
+    width: 20%;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 1px;
+}
+.cat{
+    width: 20%;
+    border: 1px solid ;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 100;
+    
+}
+
+.inner-para{
+    color: blue;
+    font-size: 18px;
+    
+}
+.outer-para{
+    font-weight: 100;
+    text-decoration: wavy;
+}
